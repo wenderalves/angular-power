@@ -1,10 +1,16 @@
 {
+    "publisher": "WenderSobrinho",
     "name": "angular-power",
     "displayName": "angular-power",
     "description": "Pacotes para programar em angular",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "icon": "icon.png",
     "engines": {
-        "vscode": "^1.61.0"
+        "vscode": "^1.59.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wenderalves/angular-power"
     },
     "categories": [
         "Extension Packs"
@@ -26,6 +32,10 @@
         "naumovs.color-highlight",
         "eamodio.gitlens",
         "aaron-bond.better-comments",
-        "adpyke.codesnap"
+        "adpyke.codesnap",
+        "mrmlnc.vscode-scss",
+        "quicktype.quicktype",
+        "stevencl.adddoccomments",
+        "sebastianbaar.vscode-add-angular2-files"
     ]
 }
